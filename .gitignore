@@ -11,8 +11,6 @@ dist
 dist-ssr
 *.local
 
-.vscode/*
-.vscode/launch.json
 !.vscode/extensions.json
 .idea
 .DS_Store
@@ -25,8 +23,6 @@ dist-ssr
 /.history
 /.cache
 /build
-.env.local
-.env
 .dev.vars
 *.vars
 .wrangler
@@ -40,3 +36,4 @@ site
 
 # commit file ignore
 app/commit.json
+config.bat
